@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day6\Assign2MethParametersDay6\Assign2MethParametersDay6\bin\Debug\Assign2MethParametersDay6.exe.config
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day6\Assign2MethParametersDay6\Assign2MethParametersDay6\bin\Debug\Assign2MethParametersDay6.exe
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day6\Assign2MethParametersDay6\Assign2MethParametersDay6\bin\Debug\Assign2MethParametersDay6.pdb
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day6\Assign2MethParametersDay6\Assign2MethParametersDay6\obj\Debug\Assign2MethParametersDay6.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day6\Assign2MethParametersDay6\Assign2MethParametersDay6\obj\Debug\Assign2MethParametersDay6.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day6\Assign2MethParametersDay6\Assign2MethParametersDay6\obj\Debug\Assign2MethParametersDay6.exe
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day6\Assign2MethParametersDay6\Assign2MethParametersDay6\obj\Debug\Assign2MethParametersDay6.pdb
